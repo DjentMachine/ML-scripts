@@ -7,3 +7,6 @@ TensorFlow was stuburningly not running with GPU, so I was experimenting a littl
 
 ### Positivos_xxx
 A first shallow attempt at training a neural network for screening a camera trapping dataset. The idea was to diferentiate between images containing animals ("Positivos"). This was aimed to be a simple binary classification.   
+
+### Object_Detection
+Another simple atempt using a simillar dataset, this time the problem was object detection.
